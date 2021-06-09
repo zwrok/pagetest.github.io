@@ -17,7 +17,7 @@
     >
       <a-box
         look-at="[gps-camera]"
-        scale="0.150 0.150 0.150"
+        scale="150 150 150"
         gps-entity-place="latitude: 50.039602; longitude: 19.926188;"
       ></a-box>
       <a-camera gps-camera rotation-reader> </a-camera>
